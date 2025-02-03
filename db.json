@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Lieblingskunde GmbH",
+        "address": {
+            "street": "Bahnhofstraße 42",
+            "zip": "53127",
+            "city": "Bonn",
+            "country": "DE"
+        },
+        "contacts": [
+            {
+                "name": "Bester Ansprechpartner",
+                "mail": "bester@liebligskunde.de",
+                "phone": "0228/1234567"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Lahmer Kunde",
+        "address": {
+            "street": "Abstellweg 42",
+            "zip": "51105",
+            "city": "Köln",
+            "country": "DE"
+        },
+        "contacts": [
+            {
+                "name": "Super Langsam",
+                "mail": "super@lahmerkunde.de",
+                "phone": "0221/1234567"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Evil Inc.",
+        "address": {
+            "street": "Rock Bottom 1",
+            "zip": "51105",
+            "city": "Köln",
+            "country": "DE"
+        },
+        "contacts": [
+            {
+                "name": "Dr. Evil",
+                "mail": "villain@evil.de",
+                "phone": "0221/666666"
+            },
+            {
+                "name": "Anti Hero",
+                "mail": "anti@evil.de",
+                "phone": "0221/112233"
+            }
+        ]
+    }
+]
