@@ -2,7 +2,7 @@
     "clients": [
     {
         "id": 1,
-        "name": "Lieblingskunde GmbH",
+        "name": "Lieblingskunde GmbH & Co.KG",
         "address": {
             "street": "Bahnhofstraße 42",
             "zip": "53127",
